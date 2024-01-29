@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exercicios-aula-algoritmos-csharp/1.0.0": {
+        "runtime": {
+          "exercicios-aula-algoritmos-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicios-aula-algoritmos-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

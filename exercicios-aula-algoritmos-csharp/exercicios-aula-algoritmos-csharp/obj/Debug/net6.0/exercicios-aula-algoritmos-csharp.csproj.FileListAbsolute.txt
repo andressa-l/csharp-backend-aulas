@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\bin\Debug\net6.0\exercicios-aula-algoritmos-csharp.exe
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\bin\Debug\net6.0\exercicios-aula-algoritmos-csharp.deps.json
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\bin\Debug\net6.0\exercicios-aula-algoritmos-csharp.runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\bin\Debug\net6.0\exercicios-aula-algoritmos-csharp.dll
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\bin\Debug\net6.0\exercicios-aula-algoritmos-csharp.pdb
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.dll
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\refint\exercicios-aula-algoritmos-csharp.dll
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.pdb
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\exercicios-aula-algoritmos-csharp.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp\obj\Debug\net6.0\ref\exercicios-aula-algoritmos-csharp.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicios-aula-algoritmos-csharp", "exercicios-aula-algoritmos-csharp\exercicios-aula-algoritmos-csharp.csproj", "{0DFFBCD2-AC36-4D39-9028-B4C73E73441E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFFBCD2-AC36-4D39-9028-B4C73E73441E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFFBCD2-AC36-4D39-9028-B4C73E73441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFFBCD2-AC36-4D39-9028-B4C73E73441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFFBCD2-AC36-4D39-9028-B4C73E73441E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4CB9B2-CD2D-4086-B361-87862AC0A59C}
+	EndGlobalSection
+EndGlobal
