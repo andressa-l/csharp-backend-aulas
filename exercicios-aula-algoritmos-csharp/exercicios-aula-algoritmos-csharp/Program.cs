@@ -308,3 +308,185 @@ class Program
         Console.WriteLine("O volume de refrigerante comprado é " + volume + " litros.");
     }
 }
+
+//Proximo exercicio
+//questão 1
+// using System;
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Declara uma variável para armazenar a soma
+//         int soma = 0;
+
+//         // Declara um vetor para armazenar os 10 números
+//         int[] numeros = new int[10];
+
+//         // Lê os 10 números do usuário usando um laço for
+//         for (int i = 0; i < 10; i++)
+//         {
+//             Console.Write("Digite o {0}º número: ", i + 1);
+//             numeros[i] = int.Parse(Console.ReadLine());
+//         }
+
+//         // Calcula a soma dos 10 números usando um laço foreach
+//         foreach (int numero in numeros)
+//         {
+//             soma += numero;
+//         }
+
+//         // Apresenta a soma na tela
+//         Console.WriteLine("A soma de todos os números lidos é: {0}", soma);
+//     }
+// }
+
+
+//questão 2
+
+// using System;
+
+// class Aluno
+// {
+//     // Declara os campos da classe
+//     public string Nome { get; set; }
+//     public double Nota1 { get; set; }
+//     public double Nota2 { get; set; }
+
+//     // Declara o método que calcula a média e a situação do aluno
+//     public void CalcularMedia()
+//     {
+//         // Calcula a média aritmética das notas
+//         double media = (Nota1 + Nota2) / 2;
+
+//         // Verifica se a média é maior ou igual a 6
+//         if (media >= 6)
+//         {
+//             // Se for, o aluno está aprovado
+//             Console.WriteLine("Aluno: {0}", Nome);
+//             Console.WriteLine("Média: {0}", media);
+//             Console.WriteLine("Situação: Aprovado");
+//         }
+//         else
+//         {
+//             // Se não, o aluno está reprovado
+//             Console.WriteLine("Aluno: {0}", Nome);
+//             Console.WriteLine("Média: {0}", media);
+//             Console.WriteLine("Situação: Reprovado");
+//         }
+//     }
+// }
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Cria um objeto da classe Aluno
+//         Aluno aluno = new Aluno();
+
+//         // Atribui os valores dos campos
+//         aluno.Nome = "Wallace Oliveira";
+//         aluno.Nota1 = 10;
+//         aluno.Nota2 = 8;
+
+//         // Chama o método que calcula a média e a situação do aluno
+//         aluno.CalcularMedia();
+//     }
+// }
+
+//questão 3
+
+// Console.Write("Digite o valor do seu salário: ");
+// double salario = double.Parse(Console.ReadLine());
+// if (salario < 1500.00 )
+//         {
+//             salario = salario * 1.5;
+//         }
+//         else if (salario >= 1500.00 && salario < 4300.00)
+//         {
+//             salario = salario * 1.4;
+//         }
+//         else
+//         {
+//             salario = salario * 1.3;
+//         }
+// }
+
+// Console.WriteLine("Valor do salário: ", salario);
+
+
+//questão 4
+
+// Console.Write("Digite a idade do nadador: ");
+// double idade = int.Parse(Console.ReadLine());
+// if (idade >= 5 && idade <= 7)
+//         {
+//            Console.WriteLine("Categoria Infantil A");
+//         }
+//         else if (idade >= 8 && idade <= 10)
+//         {
+//             Console.WriteLine("Categoria Infantil B");
+//         }
+//         else if (idade >= 11 && idade <= 13)
+//         {
+//             Console.WriteLine("Categoria Juvenil A");
+//         }
+//         else if (idade >= 14 && idade <= 17)
+//         {
+//             Console.WriteLine("Categoria Juvenil B");
+//         }
+//         else if (idade > 18)
+//         {
+//             Console.WriteLine("Adulto");
+//         }
+
+//         else 
+//         {
+//             Console.WriteLine("Categoria Inexistente");
+//         }
+
+//questão 5
+
+
+
+//questão 6
+
+Console.Write("Digite a primeira nota: ");
+double nota1, nota2 = int.Parse(Console.ReadLine());
+double soma = int.Parse(Console.ReadLine());
+
+soma = (nota1 + nota2) / 2 
+
+if (nota1  )
+        {
+           Console.WriteLine("Categoria Infantil A");
+        }
+        else if (idade >= 8 && idade <= 10)
+        {
+            Console.WriteLine("Categoria Infantil B");
+        }
+        else if (idade >= 11 && idade <= 13)
+        {
+            Console.WriteLine("Categoria Juvenil A");
+        }
+        else if (idade >= 14 && idade <= 17)
+        {
+            Console.WriteLine("Categoria Juvenil B");
+        }
+        else if (idade > 18)
+        {
+            Console.WriteLine("Adulto");
+        }
+
+        else 
+        {
+            Console.WriteLine("Categoria Inexistente");
+        }
+
+//questão 7
+
+//questão 8
+
+
+
+
