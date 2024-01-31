@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\bin\Debug\net6.0\AEstacionamentoLocal.exe
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\bin\Debug\net6.0\AEstacionamentoLocal.deps.json
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\bin\Debug\net6.0\AEstacionamentoLocal.runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\bin\Debug\net6.0\AEstacionamentoLocal.dll
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\bin\Debug\net6.0\AEstacionamentoLocal.pdb
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.dll
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\refint\AEstacionamentoLocal.dll
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.pdb
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\AEstacionamentoLocal.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\AEstacionamentoLocal\AEstacionamentoLocal\obj\Debug\net6.0\ref\AEstacionamentoLocal.dll
