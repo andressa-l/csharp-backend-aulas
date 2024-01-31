@@ -447,46 +447,197 @@ class Program
 
 //questão 5
 
+// using System;
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Lê a quantidade de latas de 350 ml compradas
+//         Console.Write("Digite a quantidade de latas de 350 ml compradas: ");
+//         int latas = int.Parse(Console.ReadLine());
+
+//         // Lê a quantidade de garrafas de 600 ml compradas
+//         Console.Write("Digite a quantidade de garrafas de 600 ml compradas: ");
+//         int garrafas600 = int.Parse(Console.ReadLine());
+
+//         // Lê a quantidade de garrafas de 2 litros compradas
+//         Console.Write("Digite a quantidade de garrafas de 2 litros compradas: ");
+//         int garrafas2000 = int.Parse(Console.ReadLine());
+
+//         // Calcula o volume de refrigerante comprado usando a fórmula V = 0.35 * L + 0.6 * G1 + 2 * G2
+//         double volume = 0.35 * latas + 0.6 * garrafas600 + 2 * garrafas2000;
+
+//         // Exibe o volume de refrigerante comprado no console
+//         Console.WriteLine("O volume de refrigerante comprado é " + volume + " litros.");
+//     }
+// }
 
 
 //questão 6
 
-Console.Write("Digite a primeira nota: ");
-double nota1, nota2 = int.Parse(Console.ReadLine());
-double soma = int.Parse(Console.ReadLine());
+// using System;
 
-soma = (nota1 + nota2) / 2 
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Lê as duas notas do aluno em uma escala de 0 a 10
+//         Console.Write("Digite a primeira nota do aluno: ");
+//         double nota1 = double.Parse(Console.ReadLine());
+//         Console.Write("Digite a segunda nota do aluno: ");
+//         double nota2 = double.Parse(Console.ReadLine());
 
-if (nota1  )
-        {
-           Console.WriteLine("Categoria Infantil A");
-        }
-        else if (idade >= 8 && idade <= 10)
-        {
-            Console.WriteLine("Categoria Infantil B");
-        }
-        else if (idade >= 11 && idade <= 13)
-        {
-            Console.WriteLine("Categoria Juvenil A");
-        }
-        else if (idade >= 14 && idade <= 17)
-        {
-            Console.WriteLine("Categoria Juvenil B");
-        }
-        else if (idade > 18)
-        {
-            Console.WriteLine("Adulto");
-        }
+//         // Calcula a média das duas notas usando a fórmula M = (N1 + N2) / 2
+//         double media = (nota1 + nota2) / 2;
 
-        else 
-        {
-            Console.WriteLine("Categoria Inexistente");
-        }
+//         // Exibe a média do aluno no console
+//         Console.WriteLine("A média do aluno é " + media + ".");
+
+//         // Verifica se a média é maior ou igual a 7 e exibe uma mensagem de acordo com o resultado
+//         if (media >= 7) // Aprovado
+//         {
+//             Console.WriteLine("Aprovado.");
+//             Console.WriteLine("Recebe Certificado.");
+//         }
+//         else // Reprovado
+//         {
+//             Console.WriteLine("Reprovado.");
+//             Console.WriteLine("Não recebe Certificado.");
+//         }
+//     }
+// }
+
 
 //questão 7
 
+// using System;
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Lê os dados a, b e c do usuário
+//         Console.Write("Digite o valor de a: ");
+//         double a = double.Parse(Console.ReadLine());
+//         Console.Write("Digite o valor de b: ");
+//         double b = double.Parse(Console.ReadLine());
+//         Console.Write("Digite o valor de c: ");
+//         double c = double.Parse(Console.ReadLine());
+
+//         // Calcula o discriminante usando a fórmula Delta = b^2 - 4ac
+//         double delta = b * b - 4 * a * c;
+
+//         // Verifica se o discriminante é positivo, negativo ou zero e calcula as raízes usando a fórmula x = (-b +- sqrt(Delta)) / 2a
+//         if (delta > 0) // Duas raízes reais e distintas
+//         {
+//             double x1 = (-b + Math.Sqrt(delta)) / (2 * a); // Raiz com o sinal positivo
+//             double x2 = (-b - Math.Sqrt(delta)) / (2 * a); // Raiz com o sinal negativo
+//             Console.WriteLine("As raízes da equação são " + x1 + " e " + x2 + ".");
+//         }
+//         else if (delta == 0) // Uma raiz real e dupla
+//         {
+//             double x = -b / (2 * a); // Raiz única
+//             Console.WriteLine("A raiz da equação é " + x + ".");
+//         }
+//         else // Nenhuma raiz real
+//         {
+//             Console.WriteLine("A equação não possui raízes reais.");
+//         }
+//     }
+// }
+
+
 //questão 8
 
+// using System;
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         // Lê o peso, a altura, o gênero e a idade do usuário
+//         Console.Write("Digite o seu peso em quilogramas: ");
+//         double peso = double.Parse(Console.ReadLine());
+//         Console.Write("Digite a sua altura em metros: ");
+//         double altura = double.Parse(Console.ReadLine());
+//         Console.Write("Digite o seu gênero (M para masculino, F para feminino): ");
+//         char genero = char.Parse(Console.ReadLine());
+//         Console.Write("Digite a sua idade em anos: ");
+//         int idade = int.Parse(Console.ReadLine());
+
+//         // Calcula o IMC usando a fórmula IMC = peso / altura^2
+//         double imc = peso / (altura * altura);
+
+//         // Exibe o IMC do usuário no console
+//         Console.WriteLine("O seu IMC é " + imc + ".");
+
+//         // Verifica o gênero do usuário e compara o IMC com a tabela de IMC ideal
+//         if (genero == 'M') // Usuário é do gênero masculino
+//         {
+//             if (idade >= 20 && idade <= 24) // Usuário tem entre 20 e 24 anos
+//             {
+//                 if (imc >= 20 && imc <= 25) // IMC está entre 20 e 25
+//                 {
+//                     Console.WriteLine("O seu IMC está ideal para a sua idade e gênero.");
+//                 }
+//                 else if (imc < 20) // IMC é menor que 20
+//                 {
+//                     Console.WriteLine("O seu IMC está abaixo do ideal para a sua idade e gênero.");
+//                 }
+//                 else // IMC é maior que 25
+//                 {
+//                     Console.WriteLine("O seu IMC está acima do ideal para a sua idade e gênero.");
+//                 }
+//             }
+//             // Repete o mesmo processo para as outras faixas de idade e IMC
+//             // ...
+//         }
+//         else if (genero == 'F') // Usuário é do gênero feminino
+//         {
+//             if (idade >= 20 && idade <= 24) // Usuário tem entre 20 e 24 anos
+//             {
+//                 if (imc >= 19 && imc <= 24) // IMC está entre 19 e 24
+//                 {
+//                     Console.WriteLine("O seu IMC está ideal para a sua idade e gênero.");
+//                 }
+//                 else if (imc < 19) // IMC é menor que 19
+//                 {
+//                     Console.WriteLine("O seu IMC está abaixo do ideal para a sua idade e gênero.");
+//                 }
+//                 else // IMC é maior que 24
+//                 {
+//                     Console.WriteLine("O seu IMC está acima do ideal para a sua idade e gênero.");
+//                 }
+//             }
+//             // Repete o mesmo processo para as outras faixas de idade e IMC
+//             // ...
+//         }
+//         else // Usuário digitou um gênero inválido
+//         {
+//             Console.WriteLine("O gênero digitado é inválido. Por favor, digite M para masculino ou F para feminino.");
+//         }
+//     }
+// }
+
+
+// Atividade - Aplicando lógica A
+// Questão 1
+
+
+// Questão 2
+
+
+// Questão 3
+
+
+// Questão 4
+
+
+// Questão 5
+
+
+// Questão 6
 
 
 
